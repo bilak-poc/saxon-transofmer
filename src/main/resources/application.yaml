@@ -1,0 +1,5 @@
+
+
+transformer:
+  defaultTemplate: parse-changelog.xslt
+  defaultSourceChangelog: source-changelog.xml
